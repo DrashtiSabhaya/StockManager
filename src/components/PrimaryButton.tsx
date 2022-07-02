@@ -32,9 +32,9 @@ const PrimaryButton = ({
 
 const styles = StyleSheet.create({
   btnContainer: {
-    paddingVertical: 15,
+    paddingVertical: 16,
     backgroundColor: Colors.primaryColor,
-    marginHorizontal: 25,
+    marginHorizontal: 20,
     alignItems: 'center',
     justifyContent: 'center',
     borderRadius: 6,

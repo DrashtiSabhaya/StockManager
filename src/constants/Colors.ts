@@ -2,6 +2,8 @@ export default {
   white: '#FFFFFF',
   black: '#000000',
   primaryColor: '#7F18D0',
+  lightBackground: '#F2E1FF',
+  greyLight: '#F4F4F4',
   titleTextColor: '#080D45',
   subTitleColor: '#333333',
   textColor: '#4B4B4B',
@@ -10,5 +12,9 @@ export default {
   darkBlue: '#1826D0',
   blueText: '#243B80',
   greyColor: '#C9C9CA',
+  whiteLight: '#FBFAFA',
+  lightPrimary: '#C2C7FF',
+  primaryBackground: '#EDEEF7',
+  portfolioListbg: '#F8F8F8',
   themeColor: ['#1826D0', '#7982FA', '#EEEFFF', '#C2C7FF'],
 };
